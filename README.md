@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Pascalos99
 - 👀 I’m interested in Artificial Intelligence and Algorithmic Optimization
-- 🌱 I’m currently learning Data Science and Artificial Intelligence (Bsc)
+- 📚 I’m a Bachelor of Science in Data Science and Artificial Intelligence
+- 🌱 I'm studying Artificial Intelligence (Msc) at Maastricht University
 - 💞️ I’m looking to collaborate on Game development, Genetic Algorithms, and novel optimization algorithms
 - 📫 How to reach me...
 
